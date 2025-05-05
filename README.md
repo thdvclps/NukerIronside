@@ -25,7 +25,7 @@ Um script completo para nukers do Discord, feito para nuking, etc. Desenvolvido 
 ### 🛠 Setup
 
 ```bash
-git clone https://github.com/muzfr/nuker.git
-cd COM-Client-v1
+git clone https://github.com/thdvclps/NukerIronside
+cd NUKER IRONSIDE
 pip install -r requirements.txt
 python com_nuker.py
